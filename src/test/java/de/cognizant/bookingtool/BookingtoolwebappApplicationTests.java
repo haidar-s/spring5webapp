@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp;
+package de.cognizant.bookingtool;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Spring5webappApplicationTests {
+public class BookingtoolwebappApplicationTests {
 
 	@Test
 	public void contextLoads() {
